@@ -1,0 +1,16 @@
+cloud :
+  aws :
+    credentials :
+      access-key : AKIA4MTWMDRJ4RO5A6XC
+      secret-key : 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
+    region :
+      static : us-east-1
+    stack :
+      auto : false
+application :
+  bucket :
+    name : demoawsstorage
+
+
+server :
+  port : 9090
